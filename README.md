@@ -1,5 +1,5 @@
 # AdvancedDataStructuresLab4
-This project was created for my CS302 Advanced Data Structures class at Central Washington University. In this lab, we were asked to create a phone book with a working GUI. To complete this, I used the built in GUI builder that is part of the Eclipse IDE. Below is the provided outline for this project:
+This project was created for my CS302 Advanced Data Structures class at Central Washington University. In this lab, we were asked to create a simulation of a bank. Below is the provided outline for this project:
 
 We have a system, such as a bank, where customers arrive and wait in line until a teller is available. We are
 interested in how long on average a customer has to wait. Using this information, the bank officers can
